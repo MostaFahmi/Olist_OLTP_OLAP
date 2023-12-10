@@ -7,6 +7,7 @@ Where I developed the ERD, and did the Mapping to have the normalized (OLTP) Dat
 
 ## BI Developer Part:
 Where I had my historical data from the Olist_DB to develop (OLAP) Data Warehouse/Mart.  And then do some analysis to answer some business questions, visualized in Report sheets.
+
 Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 
 ## Goals:
